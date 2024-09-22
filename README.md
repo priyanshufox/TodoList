@@ -12,9 +12,9 @@ Welcome to the **TodoList App**! 🚀 This project is a simple yet powerful task
 - 📊 Keep track of your daily productivity!
 
 ## 🛠️ Tech Stack
-- ⚛️ **React** - Frontend library for building the UI.
+- ⚛️ **NextJSt** - Frontend library for building the UI.
 - 🎣 **React Hooks** - Manage state and lifecycle without writing classes.
-- 💅 **CSS** - For that clean and responsive design.
+- 💅 **Tailwind CSS** - For that clean and responsive design.
 
 ## 🎉 Getting Started
 To get a local copy up and running, follow these steps:
